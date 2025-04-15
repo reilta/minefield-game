@@ -1,9 +1,9 @@
 # minefield-game
-Projeto desenvolvido na disciplina de Linguagem de Programação [2018.2].
+Project carried out as part of the Programming Language course [2018.2].
 
-* Primeira versão (parte I) <br />
-Desenvolvido os menus de interação e a fase iniciante do jogo. Nesta fase, as minas são distribuídas de forma randômica, pode obter a quantidade de minas vizinhas, e abrir os quadados (um por vez) onde não possui minas. 
-* Segunda versão (parte II) <br />
-Desenvolvido a fase intermediária e a personalizada. A função de abrir os quadrados foi implementada com recursividade, para o caso de não haver minas na vizinhança; também foi implementado informações sobre o tempo e quantidade de minas na partida, condições para caso o jogador ganhe ou perca a partida, e a visualização do campo com informações.
-* Versão final (parte III) <br />
-Código do jogo foi concluído e com implementação de funções para ler e escrever arquivos com os melhores tempos da fase iniciante e da fase intermediária. 
+* First version (part I) <br />
+ Developed the interaction menus and the beginning phase of the game. In this phase, the mines are distributed randomly, you can get the number of neighboring mines, and open the squares (one at a time) where there are no mines.
+* Second version (part II) <br />
+ The intermediate phase and the customized phase have been developed. The function of opening the squares was implemented with recursion, in case there are no mines in the neighborhood; information was also implemented about the time and number of mines in the match, conditions in case the player wins or loses the match, and the visualization of the field with information.
+* Final version (part III) <br />
+ The game code has been completed and functions have been implemented to read and write files with the best times from the beginner and intermediate phases.
